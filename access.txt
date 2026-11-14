@@ -1,0 +1,5 @@
+# Devil TV approved users. One fingerprint per line, then a label.
+# Delete a line to switch that person off.
+69dbfbf7c94507a6a4526287c59de11f86b69ae702c45c154503ded775d59bc1  owner
+121f2ad347e0cdab3bb40cb2e6b44effb1831e25b569234e8bba2cc1ca246b59  user2
+cac956c71be8b595993f296d700000b6c1c9d37919e44226d5f7e02a8cbba680  user3
