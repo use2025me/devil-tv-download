@@ -1,0 +1,5 @@
+https://www.paypal.com/qrcodes/p2pqrc/DS4N547D5SLVN
+# The PayPal link shown as a QR code in Devil TV. Replace the line above to change it.
+yearly: €10
+lifetime: €30
+# The Pro prices shown in Devil TV. Change the amounts above and every box picks them up.

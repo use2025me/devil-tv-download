@@ -1,0 +1,43 @@
+• Settings: changing a setting with left, right or OK keeps you on it, instead of jumping back to the side menu
+• Pro: logo source, like TiviMate (Settings › Appearance): use the playlist's logos, the TV guide's logos, or the guide's only where the playlist has none
+• Pro: choose which buttons show on the player menu (Settings › Appearance › Player menu buttons); Pause, Channels and Settings always stay
+• Pro: the channel list can play each channel as you move onto it, without pressing OK, like TiviMate (Settings › Appearance)
+• Settings: see-through panels and skip steps now go both ways: left and right go down and up (OK still steps up), so you can go back from 60 % to 50 %
+• Devil TV takes up less room on the box: once a week, when nothing is playing, it gives back the spare space left over from playlist updates
+• Movies and Series: resting on a playlist (Premium, VOD Plus, Emerald) shows everything in it, a row per folder starting with New Releases; press right to go straight into the rows
+• Movies and Series: a playlist's "All" shows a row for each folder (Animation, Boxsets and so on); move up and down between rows and the row you're on comes up under the film details, with "1 / 300" showing where you are
+• Movies and Series laid out like TiviMate in our own style: History first (with your favourites), then each playlist with its folders opening underneath; the folders and menu tuck away as you move onto the posters, and Back brings them back one at a time; a bin on History to clear it, and the three lines at the top right for sorting
+• The side menu is tidier: Search, Home, TV, Fixtures, Movies, Series, Recordings and Settings. Replay is in the TV guide (past programmes) and Favourites is at the top of the TV guide's group list
+• Search: recent searches show as small, neat tags in two columns, with a bin to clear them
+• Home: smaller, neater channel tiles, so more fit across the screen
+• Pro: the channel list can stay open after you change channel, so you can keep flicking like TiviMate (Settings › Appearance)
+• Shield: going in and out of full screen on a 50 Hz channel (Sky Sports News) no longer makes the TV blink twice and the picture stick; full screen now opens and closes without the slide, which was making Android drop the TV to 59.94 Hz for a moment
+• Skip steps like TiviMate: 10 seconds on the rewind and fast-forward buttons, 1 minute for each press along the time bar (change both in Settings › Skip steps)
+• The info panel and menus tuck away after 5 seconds instead of 8
+• A channel joins Recent only after you've watched it for 10 seconds, so flicking past one doesn't add it; Recent keeps the last 10
+• The info panel shows DOLBY next to the picture and sound labels (HD, FHD, 4K, 5.1) when a channel has Dolby sound
+• No more "Last error" pop-up when Android closes Devil TV to make room for another app you've just opened; that's normal and isn't a fault
+• If the small picture in the TV guide or on Home ever freezes, it starts itself again within a few seconds
+• Going in and out of a 50 Hz channel (like Sky Sports News) no longer makes the TV switch back and forth between 50 and 60 Hz, which froze the picture on the Shield
+• Plays the stereo soundtrack first when a stream has both stereo and surround, like TiviMate (Settings › Pick surround sound first to change)
+• A medium buffer by default, so the picture comes back quicker after a stutter
+• The Dolby decoder in the app now really loads, so channels with Dolby sound start cleanly
+• Smoother picture just after opening: playlist, guide and list updates give way to what you're watching
+• Home is tidier: games now live in Fixtures, and (Pro) Home shows a "Your teams" row when a team you follow is playing now or soon
+• Cartoons, hockey, figure skating and rodeo are no longer marked as football, cricket or motorsport
+• TV guide: what's on now has a soft colour of its own, and finished programmes are no longer greyed out (Pro: change both in Settings › EPG)
+• Pro: Settings › Appearance can make the panels over the picture see-through, from 0 to 70%
+• Playlist and titles updates wait while you're watching a channel full screen, so they don't take its bandwidth and make it stall
+• A channel that keeps running dry switches to one of its backup copies by itself instead of reconnecting to the same slow one
+• Through a VPN, a channel that stalls keeps a few extra seconds ready, and if it keeps stalling Devil TV tells you to try a nearer VPN location
+• Faster reconnects through a VPN: server addresses are remembered for a few minutes, and when the VPN reconnects a stuck channel restarts straight away
+• Settings › VPN › Check my connection: a quick speed test that says in plain words what your connection is good for (SD, HD, FHD or 4K), with or without a VPN
+• Settings › VPN: simple tips for using any VPN app with Devil TV
+• A channel that stalls on a slow connection (busy VPN, weak Wi-Fi) moves to a lighter copy, like HD instead of FHD, instead of freezing
+• Devil TV remembers which copy of a channel plays best on your box and starts on it next time
+• R69: 4K films get one more careful try, now that Dolby sound is confirmed decoded in the app; if the box ever restarts during 4K, 4K switches off again by itself and says so
+• R69: a 4K film that can't play now stays stopped with its message, instead of coming back a few seconds later with sound and no picture
+• The game countdown is now a small tag in the top corner, only in the last half hour, showing for a few seconds at a time (and at 15 and 5 minutes to go, and the last minute); press Back to put it away
+• The countdown only appears for real games, not documentaries on club channels
+• Backups now carry your Pro code: restoring on the same box, or sending your settings to another box in the house, brings Pro back without typing the code (one code still works on up to 6 boxes)
+• Fixtures: international football now shows too, including the Nations League, World Cup and Euro qualifiers, and friendlies
