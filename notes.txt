@@ -1,0 +1,120 @@
+• Devil TV 2.0: a new look of its own. Near-black, Devil red for anything live, and a gold highlight on whatever you're on. Your teams' next games now sit at the top of Home, with the next game as a big card. Everything else works just as before
+• Pick your own highlight colour in Settings › Colour scheme › Devil 2.0, from gold, red, blue, green and more, or any of 24 shades. The old colour schemes are still there if you prefer one
+• Fixtures no longer freezes or closes when you move left and right
+• Live streams that won't play: when every copy has been tried, the message says Press OK to try it in the backup player (VLC, which reads almost anything), and OK does just that
+• Search by voice: a microphone button beside the box in Search and in Fixtures, one press of Right away, and the remote's search button listens straight away
+• Fixtures: an On now button shows every game on right now, whatever the sport
+• Home: Back on a card part way along a row goes straight to the start of the row
+• A playlist sorted with Ireland and UK first stays sorted, in TV, Movies and Series: groups your provider adds later slot in with the Irish, UK or sport groups instead of at the bottom. Emerald is sorted this way by itself; Premium keeps the order you set and new groups slot in around it
+• Back is quicker with the remote: from a stream it goes to its group's streams, then the groups, then Home, without stopping in the menu down the side or going round again into the stream you left
+• Replay has its own button in the menu on the left, under TV: every stream your provider offers replay on, then the day, then the programme
+• Hold-OK menus stay open: the press that opens a menu no longer picks Cancel and closes it, the highlight starts on the top choice, and the menu scrolls so Down reaches everything, including Check this stream
+• Settings › Other › Clear watch history now clears everything you've watched in one go (Recently watched, the History in Movies and Series, and Continue watching), after asking first; favourites stay
+• Continue watching on Home has a bin to empty the row, and holding OK on a title takes just that one off (it still carries on from where it stopped)
+• Favourites: hold OK on any film or series to remove it from Favourites (or add it), so anything in Favourites can be taken out with the remote
+• My Teams: every saved team has its own button in Fixtures, next to Ireland, and pressing a team's name in My Teams shows just its games; a team saved as Manchester United also finds Man Utd and Man United
+• Team panel: pick one team and its panel sits above its games, in its own colours, with where it is in the league, the table around it and its last five results
+• Pick your team from a list: start typing in the Fixtures search and the teams it could be appear underneath, from football, rugby, GAA and more, so a team is saved spelled the way the guide writes it; Add a team is always one press away
+• A bell for each team in My Teams (and on its panel): an alert before every one of its games, even ones not in your TV guide yet, which arrive once the guide lists them
+• Your teams next on Home: each of your teams' next game, today or in the days ahead; a game on now plays with one press, a later one opens the team in Fixtures
+• Live scores beside games that are on now, and recent results on the team panel; Settings › Other › Show scores turns them off for anyone avoiding spoilers
+• Your team's colour runs down the side of its games, so they stand out as you scroll
+• Club crests: where your playlist's football folders (EPL Live, Championship and the like) have a crest for a club, it shows beside that team on its panel, in My Teams, in Fixtures and on Home
+• The stream that played your team's last game well is tried first for its next one
+• Groups: Settings › Manage groups › Ireland and UK first sorts one playlist in a single press, Irish groups first, then the UK, then sport, and the streams inside each group the same way (RTÉ, Virgin Media and TG4, then BBC, ITV, Channel 4 and 5, then Sky Sports and TNT Sports); your other playlists keep their own order
+• Hold OK on a group in the TV list or the TV guide to hide it; hidden groups come back from Settings › Groups
+• Plays more streams: a stream the provider refuses is asked for again as another well-known player before moving on (some providers only serve certain streams to particular players), and a film the usual engine can't read or decode now opens in the backup engine (VLC, which plays almost anything) on every box, from the same spot
+• Check this stream: hold OK on a stream and pick Check this stream to find out in plain words whether the provider is sending it (refused, offline, down, too many connections) or whether it is working at their end
+• Hold OK on a stream in the list (or the TV guide) now also offers Hide this stream; hidden streams come back from Settings › Other › Hidden streams
+• Calmer and more relaxing: new boxes start on the Studio look (dark greys with a Devil red highlight), the coloured glow at the top of the menus is fainter, after an update a small note shows in the corner for a few seconds instead of a box to close, and the stream banner fades after 3.5 seconds
+• One look everywhere: pop-up boxes, the Settings menu, the player's side list and the guide's pickers now use the same slim highlight bar and flat panels as the rest of the app
+• Easier for everyone: a short three-page welcome to the remote's main buttons the first time, a new Settings › Help page answering the common questions, and the remote's Info button in the menus shows what every button does
+• Quicker on slow servers: a channel whose server sends nothing at all moves to the next copy after 5 seconds instead of waiting the full time
+• Sound that won't play: if a sound track's decoder fails, or the sound breaks again straight after a restart, Devil TV picks another track in the same language (stereo first)
+• Fixtures opens where you left it: the same sport, league, team, filters and place in the list
+• Playlists and TV guide stay up to date on a box that is left on for days: when the app comes to the front, and every half hour while it is open, anything due (Settings › Update automatically, every 6, 12 or 24 hours) is fetched in the background, without emptying the screen and only when nothing is playing
+• Fixtures: golf in English is picked up by every tour and big event (the Open, the Masters, Ryder Cup, Solheim Cup, LIV, Irish Open, FedEx Cup) and the big names (McIlroy, Lowry, Scheffler), and tennis by every tournament (Wimbledon, the French, Australian and US Open, Davis Cup, ATP Finals, Queen's) and the top players (Alcaraz, Sinner, Djokovic, Raducanu)
+• Fixtures: basketball in English is picked up by the NBA sides (Lakers v Celtics), WNBA, EuroLeague, NCAA and FIBA; snooker by its tournaments and players (UK Championship, the Crucible, Ronnie O'Sullivan, Judd Trump) with pool alongside; motorsport by every series (MotoGP, World Superbikes, Isle of Man TT, North West 200, Dakar, Formula 2 and 3, Indy 500, Le Mans, BTCC); and new headings for Wrestling (WWE, AEW), Cycling and athletics (Tour de France, Diamond League, the big marathons) and Big events (the Olympics and Commonwealth Games)
+• Fixtures: boxing from around the world in English is picked up by its promoters, belts and shows (Matchroom, Queensberry, Top Rank, Golden Boy, PBC, BOXXER, Riyadh Season, WBC, WBA, IBF, WBO, The Ring, Misfits) and by the big names (Usyk, Canelo, Inoue, Fury, Joshua, Katie Taylor and more), so a fight listed only as "Usyk v Dubois" shows under Boxing, not Football
+• Fixtures: rugby clubs are recognised by name, so Leinster, Munster, Ulster and Connacht games (and the rest of the URC, the English Premiership and French Top 14) always show as rugby, never football, while Leinster, Munster, Ulster and Connacht GAA finals between counties stay under GAA
+• Fixtures: Horse racing has its own heading, for the big meetings only (Cheltenham, Punchestown, Galway, Leopardstown, Fairyhouse, Aintree, the Curragh, Royal Ascot and the like), so small daily meetings don't fill the list; and French Top 14 rugby is now picked up
+• Fixtures: every League of Ireland club (Premier and First Division) is recognised, so their games on LOITV, RTÉ and Virgin Media show under League of Ireland, along with the FAI Cup
+• Fixtures: many more English channels and services are recognised: Sony Sports Ten, Star Sports, Showmax, beIN Sports USA, Fox Sports, Premier League Pass, DAZN, Sky, TNT and BT Box Office, Main Event, Showtime, Triller TV, Netflix, Matchroom, UFC Fight Pass, PFL, Bellator, ONE Championship, Cage Warriors, F1 TV, NFL RedZone, NBA League Pass, Tennis Channel, PGA Tour Live, RugbyPass, Sky Sports Racing, FreeSports and GAA GO; Spanish and Portuguese versions (ESPN Deportes, DAZN Spain, Fox Sports Mexico and the like) are never counted as English
+• Fixtures: beIN Sports with English commentary counts as an English channel however the playlist writes it (beIN Sports English, beIN EN, beIN Xtra), so its Premier League and Champions League games show; the Arabic and French beIN channels stay out
+• Fixtures: Champions League, Europa League and Conference League games are picked up on English channels everywhere: TNT Sports and Amazon Prime in the UK, Virgin Media and RTÉ in Ireland, CBS Sports Golazo and Paramount+ in America, DAZN in Canada (never the Spanish or French ones), and studio shows like Champions League Today are not listed as live
+• Fixtures: Premier League and other football on American channels in English (USA Network, NBCSN, NBC Sports, Peacock, CBS Sports, FS1) is picked up, even when only the description says it, and their studio shows (Premier League Mornings, Goal Zone, pre-game) are not listed as live
+• Quicker channel start: if the copy that played best last time doesn't start, Devil TV forgets it straight away, so the next time you open that channel there's no 8-second wait on a dead copy
+• Fixtures: Ice hockey now has its own heading, so NHL games (Montréal Canadiens v New York Rangers and the rest) show under Ice hockey, on English-language channels only (Sportsnet, TSN, ESPN, TNT and the like, never the French ones)
+• Steadier player: the player's notes are written in the background so they never hold up the screen, and if the box ever says Devil TV is not responding, Last error now shows exactly where it was stuck
+• Fixtures: ice hockey games (Montréal Canadiens v New York Rangers) are no longer taken for football, Supercars and rally go under Motorsport, and "Top 5 Moments" style shows are not listed as live
+• Fixtures: channel fillers and shows about a sport are no longer listed as live games (This is TNT Sports, The Ultimate Fighting Championship), UFC is never taken for football, and cookery shows like Holiday Baking Championship are left out
+• Fixtures: under International football, every national team with a game coming up this week has its own button (England, Scotland, Brazil, France and more), not only those already in the TV guide
+• Fixtures: the Ireland button is always there at the top, for Ireland football and rugby, with coming-up games shown even before the TV guide lists them
+• Fixtures: Ireland is always the first team under International football, and if its next game is not in the TV guide yet, its coming-up games show instead
+• Fixtures: a game on a cricket, rugby or golf channel is listed as that sport (England v Australia on Sky Sports Cricket is cricket, not football), and documentary channels are no longer taken for live games
+• Smoother recovery: when a channel drops and every copy has been tried, Devil TV now goes round all the copies again with fresh connections (like opening the channel again) instead of asking the last copy over and over
+• New: Always 50 Hz (Settings › Playback, on by itself on TV boxes): the TV goes to 50 Hz once as Devil TV opens and stays there, so channels come on straight away with no switching or loading screen. Films open without a switch too. Never used on the R69
+• Films: after a pause, pressing play puts the bar away by itself a moment later
+• R69 films: a slimmer bar like other players: no big box, a thin progress line with the times at each end, and smaller buttons
+• R69 films: a Picture size button beside Subtitles (press Up, then Left or Right, then OK): Fit, Fill the screen (no black bars) or Stretch, remembered for next time
+• Subtitles: one press on the CC button (or the subtitles button on your remote) switches them on and off in films and series; with more than one language, each press moves to the next, then off
+• The side menu marks the section you are in with the same slim bar as the rest of the app
+• Guide: the group list tucks away so the guide gets the full width; press Left to slide it out. A "Next" line shows what follows, tiny programmes no longer show bits of text, the catch-up clock shows once beside the channel, and channel names read cleaner ("Virgin Media Two" instead of "UK | Virgin Media Two FHD")
+• New setting: Small live picture in the guide and Home (Settings › TV guide), on as standard
+• Home: a slimmer Carry on watching card, and your part-watched films and series in a Continue watching row
+• Fixtures: only real games sit under Ireland, Premier League and the other competitions; shows and previews go in Shows and highlights at the end. Search and Sports folders now open from one button each, so the games start higher up, and channel names drop country codes and repeats
+• Films and series: no playlist name on every poster, no year under each poster, calmer ratings, clearer writing at the top, and fuller category names (Action & Adventure)
+• Tidier, less boxy look everywhere (guide, channel lists, catch-up, recordings, episodes, Fixtures, VPN and side panels): programmes sit in clean rows with faint lines instead of separate boxes, a slim highlight bar marks your row and group, rows are a little slimmer so more fit on screen, and the now line is clearer
+• Guide: type a channel number on the remote to jump straight to it
+• The info bar fades in gently when you change channel
+• Smoother channel changes: a check left over from the last channel could think the new one was stuck and restart it (a short stall right after changing). Fixtures works out its list less often in the background, leaving the R69 more room for the picture
+• Studio: pick your own highlight colour (Settings › Appearance › Colour scheme, under Studio): Red, Gold, Blue, Green, Purple, Orange, Pink, Teal, White, or any of 24 shades of your own
+• Films: a picture size button beside subtitles and the gear in the film player: Fit, Cinema zoom (no black bars), Fill the screen, Stretch or Zoom a little, remembered for next time
+• Settings: the highlight on a setting inside an opened folder now shows in full, instead of looking cut off at both sides
+• Shield: going between full screen and Home or the guide no longer makes the TV switch modes (the short stick and black blink), and with frame-rate matching off the app never asks the TV to switch
+• A cleaner, quicker look in every colour scheme: what you're on lights up at once with no zoom or glow, and a narrower, crisper font. New scheme, Studio (Pro): plain dark greys with Devil red
+• A lighter, clearer look on a big TV: a softer highlight round what you're on, and settings in a neat centred column with slimmer rows
+• Settings look lighter and tidier on a big TV: slimmer rows, smaller switches, a neater column that isn't stretched across the whole screen, with each folder's current choice on the right
+• Settings: changing a setting with left, right or OK keeps you on it, instead of jumping back to the side menu
+• Pro: logo source, like TiviMate (Settings › Appearance): use the playlist's logos, the TV guide's logos, or the guide's only where the playlist has none
+• Pro: choose which buttons show on the player menu (Settings › Appearance › Player menu buttons); Pause, Channels and Settings always stay
+• Pro: the channel list can play each channel as you move onto it, without pressing OK, like TiviMate (Settings › Appearance)
+• Settings: see-through panels and skip steps now go both ways: left and right go down and up (OK still steps up), so you can go back from 60 % to 50 %
+• Devil TV takes up less room on the box: once a week, when nothing is playing, it gives back the spare space left over from playlist updates
+• Movies and Series: resting on a playlist (Premium, VOD Plus, Emerald) shows everything in it, a row per folder starting with New Releases; press right to go straight into the rows
+• Movies and Series: a playlist's "All" shows a row for each folder (Animation, Boxsets and so on); move up and down between rows and the row you're on comes up under the film details, with "1 / 300" showing where you are
+• Movies and Series laid out like TiviMate in our own style: History first (with your favourites), then each playlist with its folders opening underneath; the folders and menu tuck away as you move onto the posters, and Back brings them back one at a time; a bin on History to clear it, and the three lines at the top right for sorting
+• The side menu is tidier: Search, Home, TV, Fixtures, Movies, Series, Recordings and Settings. Replay is in the TV guide (past programmes) and Favourites is at the top of the TV guide's group list
+• Search: recent searches show as small, neat tags in two columns, with a bin to clear them
+• Home: smaller, neater channel tiles, so more fit across the screen
+• Pro: the channel list can stay open after you change channel, so you can keep flicking like TiviMate (Settings › Appearance)
+• Shield: going in and out of full screen on a 50 Hz channel (Sky Sports News) no longer makes the TV blink twice and the picture stick; full screen now opens and closes without the slide, which was making Android drop the TV to 59.94 Hz for a moment
+• Skip steps like TiviMate: 10 seconds on the rewind and fast-forward buttons, 1 minute for each press along the time bar (change both in Settings › Skip steps)
+• The info panel and menus tuck away after 5 seconds instead of 8
+• A channel joins Recent only after you've watched it for 10 seconds, so flicking past one doesn't add it; Recent keeps the last 10
+• The info panel shows DOLBY next to the picture and sound labels (HD, FHD, 4K, 5.1) when a channel has Dolby sound
+• No more "Last error" pop-up when Android closes Devil TV to make room for another app you've just opened; that's normal and isn't a fault
+• If the small picture in the TV guide or on Home ever freezes, it starts itself again within a few seconds
+• Going in and out of a 50 Hz channel (like Sky Sports News) no longer makes the TV switch back and forth between 50 and 60 Hz, which froze the picture on the Shield
+• Plays the stereo soundtrack first when a stream has both stereo and surround, like TiviMate (Settings › Pick surround sound first to change)
+• A medium buffer by default, so the picture comes back quicker after a stutter
+• The Dolby decoder in the app now really loads, so channels with Dolby sound start cleanly
+• Smoother picture just after opening: playlist, guide and list updates give way to what you're watching
+• Home is tidier: games now live in Fixtures, and (Pro) Home shows a "Your teams" row when a team you follow is playing now or soon
+• Cartoons, hockey, figure skating and rodeo are no longer marked as football, cricket or motorsport
+• TV guide: what's on now has a soft colour of its own, and finished programmes are no longer greyed out (Pro: change both in Settings › EPG)
+• Pro: Settings › Appearance can make the panels over the picture see-through, from 0 to 70%
+• Playlist and titles updates wait while you're watching a channel full screen, so they don't take its bandwidth and make it stall
+• A channel that keeps running dry switches to one of its backup copies by itself instead of reconnecting to the same slow one
+• Through a VPN, a channel that stalls keeps a few extra seconds ready, and if it keeps stalling Devil TV tells you to try a nearer VPN location
+• Faster reconnects through a VPN: server addresses are remembered for a few minutes, and when the VPN reconnects a stuck channel restarts straight away
+• Settings › VPN › Check my connection: a quick speed test that says in plain words what your connection is good for (SD, HD, FHD or 4K), with or without a VPN
+• Settings › VPN: simple tips for using any VPN app with Devil TV
+• A channel that stalls on a slow connection (busy VPN, weak Wi-Fi) moves to a lighter copy, like HD instead of FHD, instead of freezing
+• Devil TV remembers which copy of a channel plays best on your box and starts on it next time
+• R69: 4K films get one more careful try, now that Dolby sound is confirmed decoded in the app; if the box ever restarts during 4K, 4K switches off again by itself and says so
+• R69: a 4K film that can't play now stays stopped with its message, instead of coming back a few seconds later with sound and no picture
+• The game countdown is now a small tag in the top corner, only in the last half hour, showing for a few seconds at a time (and at 15 and 5 minutes to go, and the last minute); press Back to put it away
+• The countdown only appears for real games, not documentaries on club channels
+• Backups now carry your Pro code: restoring on the same box, or sending your settings to another box in the house, brings Pro back without typing the code (one code still works on up to 6 boxes)
+• Fixtures: international football now shows too, including the Nations League, World Cup and Euro qualifiers, and friendlies
